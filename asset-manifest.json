@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Word-Cloud-React/static/css/main.179a7982.chunk.css",
+    "main.js": "/Word-Cloud-React/static/js/main.bc24a3f5.chunk.js",
+    "runtime-main.js": "/Word-Cloud-React/static/js/runtime-main.137300d2.js",
+    "static/css/2.fe699921.chunk.css": "/Word-Cloud-React/static/css/2.fe699921.chunk.css",
+    "static/js/2.97b06dbc.chunk.js": "/Word-Cloud-React/static/js/2.97b06dbc.chunk.js",
+    "static/js/3.58de00e8.chunk.js": "/Word-Cloud-React/static/js/3.58de00e8.chunk.js",
+    "index.html": "/Word-Cloud-React/index.html",
+    "static/js/2.97b06dbc.chunk.js.LICENSE.txt": "/Word-Cloud-React/static/js/2.97b06dbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.137300d2.js",
+    "static/css/2.fe699921.chunk.css",
+    "static/js/2.97b06dbc.chunk.js",
+    "static/css/main.179a7982.chunk.css",
+    "static/js/main.bc24a3f5.chunk.js"
+  ]
+}
